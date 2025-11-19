@@ -1,2 +1,2 @@
 # TemplateDockerApp
-Este proyecto sera una plantilla 
+Este proyecto sera una plantilla de proyecto de aplicacion 
